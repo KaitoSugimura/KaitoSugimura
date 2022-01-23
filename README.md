@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @KaitoSugimura
-- 👀 I’m interested in coding and creative thinking
-- 🌱 I’m currently learning front-end & back-end Engineering
-- 💞️ I’m looking to collaborate on... (Focusing on my studies right now)
-- 📫 How to reach me... (none atm)
+- 👀 I’m interested in Game Development
+- 🌱 I’m currently learning random stuff I find interesting
+- 💞️ I’m looking to collaborate on.. (none atm)
+- 📫 How to reach me sugimurakaito@gmail.com
 
 <!---
 KaitoSugimura/KaitoSugimura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
