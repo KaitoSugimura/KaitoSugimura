@@ -5,7 +5,7 @@ My name is kaito!
 
 If you would like to know more about me, I would suggest you visiting my [website](https://kaitosugimura.github.io/)!!
 
-I'd love to have a chat with you!! Contact me for anything at sugimurakaito@gmail.com
+If you have any questions or inquiries email me at sugimurakaito@gmail.com
 
 <!---
 KaitoSugimura/KaitoSugimura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
