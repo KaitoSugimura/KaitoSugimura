@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @KaitoSugimura
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning random stuff I find interesting
-- 💞️ I’m looking to collaborate on.. (none atm)
-- 📫 How to reach me sugimurakaito@gmail.com
+# Hello!! 👋
+
+My name is kaito! 
+I'm a self taught game developer and a software engineering student at University of Calgary!
+
+If you would like to know more about me, I would suggest you visiting my [website](https://kaitosugimura.github.io/)!!
+
+I'd love to have a chat with you!! Contact me for anything at sugimurakaito@gmail.com
 
 <!---
 KaitoSugimura/KaitoSugimura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
