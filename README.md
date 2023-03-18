@@ -1,6 +1,6 @@
 # Hello!! 👋
 
-My name is kaito! 
+My name is Kaito! 
 <br />I'm a self taught game developer and a software engineering student at University of Calgary!
 <br />If you would like to know more about me, I highly suggest you visiting my [website](https://kaitosugimura.github.io/)!!
 
