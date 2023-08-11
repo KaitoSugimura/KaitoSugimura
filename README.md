@@ -2,7 +2,7 @@
 
 My name is Kaito! 
 <br />I'm a self-taught game developer and a software engineering student at the University of Calgary!
-<br />If you would like to know more about me, I highly suggest you visit my [website](https://kaitosugimura.onrender.com/))!!
+<br />If you would like to know more about me, I highly suggest you visit my [website](https://kaitosugimura.onrender.com/)!!
 
 If you have any questions or inquiries email me at sugimurakaito@gmail.com
 
