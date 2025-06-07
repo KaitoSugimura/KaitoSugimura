@@ -1,7 +1,7 @@
 # Hello!! 👋
 
 My name is Kaito! 
-<br />I'm in love with websites :)
+<br />I'm in love with making websites :)
 <br />Like... a lot, come see what I do on my [website](https://kaitosugimura.onrender.com/)!!
 
 If you have any questions or inquiries, email me at sugimurakaito@gmail.com
