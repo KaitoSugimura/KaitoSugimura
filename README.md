@@ -1,10 +1,9 @@
-# Hello!! 👋
+# Yo 
 
-My name is Kaito! 
-<br />I'm in love with making websites :)
-<br />Like... a lot, come see what I do on my [website](https://kaitosugimura.onrender.com/)!!
+I'm Kaito
+If ur interested in what I do, come visit my [website](https://kaitosugimura.onrender.com/)!!
 
-If you have any questions or inquiries, email me at sugimurakaito@gmail.com
+I'm currently working on [EndPortal](https://endportal.app/)!!
 
 <!---
 KaitoSugimura/KaitoSugimura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
