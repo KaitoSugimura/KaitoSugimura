@@ -1,6 +1,5 @@
 # Yo 
 
-I'm Kaito
 If ur interested in what I do, come visit my [website](https://kaitosugimura.onrender.com/)!!
 
 I'm currently working on [EndPortal](https://endportal.app/)!!
