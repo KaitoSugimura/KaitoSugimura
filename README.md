@@ -1,6 +1,6 @@
 # Yo 
 
-If ur interested in what I do, come visit my [website](https://kaitosugimura.onrender.com/)
+About me: [My portfolio](https://kaitosugimura.onrender.com/)
 
 I'm currently working on [EndPortal](https://endportal.app/)
 <!---
