@@ -12,9 +12,9 @@
 
 **Hey!** I'm a software engineer based in Calgary, building for the web full-time. And on the side, a self-taught game developer!
 
-I'm not a fan of making people read, so here's [a website I created](https://kaitosugimura.com/) instead, which will visually walk you through who I am.
+I'm not a fan of making people read, so here's [a website I created](https://www.kaitosugimura.com/) instead, which will visually walk you through who I am.
 
-[kaitosugimura.com](https://kaitosugimura.com/) · [YouTube](https://www.youtube.com/@sugimurakaito) · [LinkedIn](https://www.linkedin.com/in/kaitosugimura/)
+[kaitosugimura.com](https://www.kaitosugimura.com/) · [YouTube](https://www.youtube.com/@sugimurakaito) · [LinkedIn](https://www.linkedin.com/in/kaitosugimura/)
 
 ### <picture><img src="assets/glyphs-now.svg" height="20" align="absmiddle" alt=""></picture> Now building
 
@@ -34,13 +34,13 @@ I'm currently working on [GestaltEcho](https://dev-gestalt-echo.vercel.app/).
 | <picture><img src="assets/glyphs-my-portfolio-v2.svg" height="20" align="absmiddle" alt=""></picture> **[My Portfolio V2](https://kaitosugimura.github.io/)** | My second portfolio website | JavaScript | 2022 |
 | <picture><img src="assets/glyphs-immortal.svg" height="20" align="absmiddle" alt=""></picture> **[Immortal](https://www.youtube.com/watch?v=ra7FCriWLSk)** | Hack n' slash & shooter duality game | Unreal Engine | 2022 |
 
-And the rest, back to my very first game, on [kaitosugimura.com](https://kaitosugimura.com/#projects).
+And the rest, back to my very first game, on [kaitosugimura.com](https://www.kaitosugimura.com/).
 
 ## <picture><img src="assets/glyphs-motion.svg" height="24" align="absmiddle" alt=""></picture> Motion
 
 <picture><img align="right" width="46%" src="assets/points.svg" alt="Points: a loose set of points draws together into one, then gains a dimension at a time, line to square to cube"></picture>
 
-Nine short scenes, on [kaitosugimura.com](https://kaitosugimura.com/#motion):
+Nine short scenes, on [kaitosugimura.com](https://www.kaitosugimura.com/):
 
 - **Bad Apple!!** · Kirigami, Aurora, Art Deco and Swiss Poster
 - **Kinetic Type** · Dizzy, Execution and Points
