@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15 15" width="20" height="20">
+<style>
+@keyframes fade{from{opacity:0}}
+@keyframes draw{from{stroke-dasharray:1 1;stroke-dashoffset:1}to{stroke-dasharray:1 1;stroke-dashoffset:0}}
+.e{animation:draw .1s cubic-bezier(.33,1,.68,1) backwards}
+.w0{animation-delay:var(--b)}
+.w1{animation-delay:calc(var(--b) + .1s)}
+.w2,.w3{animation-delay:calc(var(--b) + .2s)}
+.fill{animation:fade .3s cubic-bezier(.65,0,.35,1) backwards;animation-delay:calc(var(--b) + .17s)}
+.wire{opacity:0;animation:wire .3s cubic-bezier(.65,0,.35,1) backwards;animation-delay:calc(var(--b) + .17s)}
+@keyframes wire{from{opacity:1}}
+.s{animation:draw .65s cubic-bezier(.33,1,.68,1) backwards;animation-delay:calc(var(--b) + .38s)}
+.sd{animation:fade .2s backwards;animation-delay:calc(var(--b) + 1.03s)}
+.ln{fill:none;animation:draw .9s cubic-bezier(.25,1,.5,1) backwards}
+.sp{animation:spark .42s cubic-bezier(.33,1,.68,1) backwards}
+@keyframes spark{0%{transform:scale(0);opacity:0}55%{transform:scale(1.12);opacity:1}}
+
+@media (prefers-reduced-motion:reduce){*{animation:none!important}.gl{display:none}}</style>
+<defs><linearGradient id="g0" x2="0" y2="1"><stop offset="0" stop-color="#c7caca"/><stop offset="1" stop-color="#b4b7b8"/></linearGradient><linearGradient id="g1" x2="0" y2="1"><stop offset="0" stop-color="#fafafa"/><stop offset="1" stop-color="#e8e8e8"/></linearGradient><linearGradient id="g2" x2="0" y2="1"><stop offset="0" stop-color="#eceeee"/><stop offset="1" stop-color="#d9dcdc"/></linearGradient></defs>
+<g class="c" style="--b:0.3s"><g class="wire"><g fill="none" stroke="#848d97" stroke-opacity=".42" stroke-width="0.75"><path class="e w1" pathLength="1" d="M13.7 11.2L7.5 8.1"/><path class="e w1" pathLength="1" d="M7.5 0.6L7.5 8.1"/><path class="e w2" pathLength="1" d="M7.5 8.1L1.3 11.2"/></g><g fill="none" stroke="#848d97" stroke-opacity=".85" stroke-width="0.75"><path class="e w0" pathLength="1" d="M13.7 3.8L13.7 11.2"/><path class="e w1" pathLength="1" d="M13.7 11.2L7.5 14.4"/><path class="e w0" pathLength="1" d="M13.7 3.8L7.5 0.6"/><path class="e w1" pathLength="1" d="M7.5 0.6L1.3 3.8"/><path class="e w0" pathLength="1" d="M13.7 3.8L7.5 6.9"/><path class="e w2" pathLength="1" d="M7.5 14.4L1.3 11.2"/><path class="e w2" pathLength="1" d="M1.3 3.8L1.3 11.2"/><path class="e w1" pathLength="1" d="M7.5 6.9L7.5 14.4"/><path class="e w1" pathLength="1" d="M7.5 6.9L1.3 3.8"/></g></g><g class="fill"><path d="M13.7 11.2L13.7 3.8L7.5 6.9L7.5 14.4Z" fill="url(#g0)"/><path d="M7.5 0.6L1.3 3.8L7.5 6.9L13.7 3.8Z" fill="url(#g1)"/><path d="M1.3 11.2L7.5 14.4L7.5 6.9L1.3 3.8Z" fill="url(#g2)"/><path d="M13.7 3.8L7.5 6.9M1.3 3.8L7.5 6.9" fill="none" stroke="#ffffff" stroke-opacity=".55" stroke-width="0.68"/></g><g class="fill" opacity="0.75"><path fill="none" stroke="#848d97" stroke-opacity=".85" stroke-width="0.75" d="M13.7 3.8L13.7 11.2M13.7 11.2L7.5 14.4M13.7 3.8L7.5 0.6M7.5 0.6L1.3 3.8M13.7 3.8L7.5 6.9M7.5 14.4L1.3 11.2M1.3 3.8L1.3 11.2M7.5 6.9L7.5 14.4M7.5 6.9L1.3 3.8"/></g></g>
+<g class="gl" opacity="0"><path d="M7.5 8.1L13.7 11.2M7.5 8.1L7.5 0.6M7.5 8.1L1.3 11.2M13.7 11.2L13.7 3.8M13.7 11.2L7.5 14.4M7.5 0.6L13.7 3.8M7.5 0.6L1.3 3.8M13.7 3.8L7.5 6.9M1.3 11.2L7.5 14.4M1.3 11.2L1.3 3.8M7.5 14.4L7.5 6.9M1.3 3.8L7.5 6.9" fill="none" stroke="#848d97" stroke-opacity=".563" stroke-width="0.68"/><animate id="gl" attributeName="opacity" values="0;1;.5;0" keyTimes="0;.09;.32;1" dur="1.3s" begin="9.1s;gl.end+12.7s"/></g>
+</svg>
